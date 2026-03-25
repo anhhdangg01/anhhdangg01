@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello there! I'm Anh Dang.
 
+I am passionate about UI/UX design, software development, and art! I believe in making design accessible to more creators, so that they can bring their imagination and creativity to life. My goal is to help create products that empower creativity and design for everyone!
+
+If you have any questions or would like to connect, please feel free to contact me!
 <!--
 **anhhdangg01/anhhdangg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
