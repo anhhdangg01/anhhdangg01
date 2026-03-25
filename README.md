@@ -1,4 +1,4 @@
-	/assets/images/CCZ3--19_compressed.jpg
+![Celestial Clash booth at first Z3 event at UCI](CCZ3--19_compressed.png)
 ## Hello there! I'm Anh Dang.
 
 I am passionate about UI/UX design, software development, and art! I believe in making design accessible to more creators, so that they can bring their imagination and creativity to life. My goal is to help create products that empower creativity and design for everyone!
